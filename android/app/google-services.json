@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485487413795",
+    "project_id": "review-foods",
+    "storage_bucket": "review-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485487413795:android:889379dcd9e7ab540f3f96",
+        "android_client_info": {
+          "package_name": "com.example.cloud_service_foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485487413795-25v30pass257ku921qse9venoppvovbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7cd6_tE5tWZjAjMI5f4c--ghExhgKTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485487413795-25v30pass257ku921qse9venoppvovbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
